@@ -21,8 +21,8 @@ View your backups with the in-app backup list.
       >WARNING
       >For now only files are supported
     ```properties
-    #Map backup utility properties
-    #Sat Sep 17 00:41:30 CEST 2022
+    #SourceMapBackup properties
+    #Sun Sep 25 00:42:37 CEST 2022
     file.map=C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/sdk_content/maps/de_somber.vmf
     file.archive=C:/Users/user/Desktop/archive/
     file.additional=C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/resource/overviews/de_somber_radar.png
